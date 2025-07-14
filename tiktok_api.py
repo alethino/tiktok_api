@@ -11,7 +11,7 @@ from flask import request #line:12
 import base64 #line:13
 app =Flask (__name__ )#line:15
 class XGorgon :#line:18
-    def encryption (OOO00OO00000OO0OO ):#line:19
+ def encryption (OOO00OO00000OO0OO ):#line:19
         OO0OO00OO0O0O0O0O =''#line:20
         OO0OO000O00O00OO0 =[]#line:21
         for OO00O000OOO0OOOOO in range (0 ,256 ):#line:22
