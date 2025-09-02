@@ -2,8 +2,8 @@
  tiktok api last version mass account creator of tik tok accounts, tik tok likes, comments, tik tok latest version, x-gorgon, x-ladon, x-argus, algorithms
 
 
-**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
-## telegram: @Neo_Galaxy
+**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
+## telegram: @alethino
 
 
 
@@ -33,5 +33,5 @@
 
 
 
-**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
-## telegram: @Neo_Galaxy
+**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
+## telegram: @alethino
